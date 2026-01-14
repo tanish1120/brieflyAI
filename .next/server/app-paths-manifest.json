@@ -1,0 +1,9 @@
+{
+  "/notes/[id]/page": "app/notes/[id]/page.js",
+  "/api/summarize/[noteId]/route": "app/api/summarize/[noteId]/route.js",
+  "/api/notes/[id]/route": "app/api/notes/[id]/route.js",
+  "/api/notes/route": "app/api/notes/route.js",
+  "/api/summarize/route": "app/api/summarize/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
