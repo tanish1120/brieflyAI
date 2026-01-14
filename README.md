@@ -35,8 +35,8 @@ Before running this project, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd brieflyai-keywords-main
+git clone https://github.com/tanish1120/brieflyAI
+cd brieflyai
 ```
 
 ### 2. Install Dependencies
